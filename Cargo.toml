@@ -1,0 +1,10 @@
+[package]
+name = "rajce-download"
+version = "0.1.0"
+authors = ["hjajet"]
+
+[dependencies]
+tokio-core = "0.1"
+futures = "0.1"
+hyper = "0.11"
+select = "0.4"
